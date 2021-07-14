@@ -258,10 +258,10 @@ body {
     &__top {
         display: flex;
         flex-flow: row wrap;
+    }
 
-        img {
-            display: block;
-        }
+    &__preview-image {
+        display: block;
     }
 
     .n-button {
