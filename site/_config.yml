@@ -1,6 +1,6 @@
 theme: cc-template-components
 
-themes:
+website_themes:
   - 'Hydra'
   - 'Justice'
   - 'Cause'
@@ -63,7 +63,6 @@ _explore:
     - heading: Settings
       collections:
         - website_settings
-        - theme_files
 
 # The rest of this array structure will be
 # populated by the bookshop-array-structures plugin.
