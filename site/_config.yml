@@ -1,10 +1,5 @@
 theme: cc-template-components
 
-website_themes:
-  - 'Hydra'
-  - 'Justice'
-  - 'Cause'
-
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
@@ -81,6 +76,10 @@ _select_data:
   link_type:
     - Text
     - Button
+  website_themes:
+    - 'Hydra'
+    - 'Justice'
+    - 'Cause'
 
 _comments:
   live_domain_url: "Remove any '/' at the end of the URL so your domain looks like this - 'https://example.com'"
