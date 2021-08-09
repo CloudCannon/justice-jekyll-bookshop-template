@@ -1,5 +1,10 @@
 theme: cc-template-components
 
+themes:
+  - 'Hydra'
+  - 'Justice'
+  - 'Cause'
+
 plugins:
   - jekyll-bookshop
   - cloudcannon-jekyll-bookshop
@@ -43,9 +48,6 @@ collections:
     _singular_name: 'Staff Member'
     _slug: 'staff_members'
     output: false
-  theme_files:
-    output: false
-    _icon: 'palette'
 
 # Make sure you add any new collections here for them to show in CloudCannon
 _explore:
