@@ -1,6 +1,6 @@
 # Justice
 
-Justice is a Marketing site template for Jekyll. Browse through a [live demo](https://proper-gull.cloudvent.net/).
+Justice is a Marketing site template for Jekyll. Browse through a [live demo](https://simple-water.cloudvent.net/).
 Increase the web presence of your brand with this configurable theme.
 
 ![Justice template screenshot](images/_screenshot.png)
