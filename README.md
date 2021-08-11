@@ -3,7 +3,7 @@
 Law firm themed business template for Jekyll. Browse through a [live demo](https://simple-water.cloudvent.net/).
 Increase the web presence of a business or law firm with this configurable theme.
 
-![Justice template screenshot](images/_screenshot.png)
+![Justice template screenshot](site/images/_screenshot.png)
 
 Justice was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll and Hugo.
 The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
