@@ -45,7 +45,7 @@ link_columns:
         icon_image:
       - link_label: Subscribe with RSS
         link_url: '/feed.xml'
-        icon_image: /images/svg/rss.svg
+        icon_image: /images/svg/RSS.svg
         open_in_new_tab: false
 
 lower_text_html: >-
