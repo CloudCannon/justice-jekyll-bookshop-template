@@ -39,7 +39,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Co
 
 ## Develop
 
-Justice was built with [Jekyll](http://jekyllrb.com/) version 4.2.0, but should support newer versions as well.
+Justice was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
 
 Install the dependencies for Bookshop:
 
@@ -70,9 +70,6 @@ Justice is already optimised for adding, updating and removing pages, and compon
 * Add, update or remove a post in the *Posts* collection.
 * The **Staff Author** field links to members in the **Staff Members** collection.
 * Change the defaults when new posts are created in `_posts/_defaults.md`.
-
-## Collections
-* When adding or removing collections, update the Explore View options within the `_config.yml` file. For more information see CloudCannon's documentation on [Explore Groups](https://cloudcannon.com/documentation/edit/interfaces/explore/#keyword:_explore).
 
 ### Contact Forms
 

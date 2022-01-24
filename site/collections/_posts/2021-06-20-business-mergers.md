@@ -1,9 +1,10 @@
 ---
+_id: f977830a-935b-4ffe-a983-8d894dc3397a
 date: 2021-06-20 00:00:00
 title: Business Mergers
 categories:
   - Business
-author_staff_member: jane-doe
+author_staff_member: ed4c2088-8c21-4f21-9ac3-fb190dee9fb3
 SEO_options:
   title:
   description:

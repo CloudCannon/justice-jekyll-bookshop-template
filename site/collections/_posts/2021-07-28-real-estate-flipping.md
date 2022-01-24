@@ -1,9 +1,10 @@
 ---
+_id: b50474d0-8c3e-4721-a6ad-0c3e228ec250
 date: 2021-06-28
 title: Real Estate Flipping
 categories:
   - Property
-author_staff_member: john-doe
+author_staff_member: 8c6c132e-1c21-413e-be81-874091df1841
 SEO_options:
   title:
   description:
