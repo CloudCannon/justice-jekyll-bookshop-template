@@ -3,8 +3,7 @@
   "private": true,
   "description": "A website template built by CloudCannon",
   "scripts": {
-    "bookshop-dev": "bookshop-browser -p 6061 -b ./component-library",
-    "bookshop-live": "bookshop-live -b ./component-library -o site/_cloudcannon/bookshop-live.js",
+    "bookshop": "bookshop-browser ",
     "jekyll:install": "BUNDLE_GEMFILE=site/Gemfile bundle install",
     "jekyll": "BUNDLE_GEMFILE=site/Gemfile bundle exec jekyll serve --source site --port 6060 --trace --unpublished",
     "start": "run-p bookshop-dev jekyll",
@@ -21,9 +20,9 @@
   },
   "homepage": "https://github.com/CloudCannon/justice-jekyll-bookshop-template#readme",
   "devDependencies": {
-    "@bookshop/browser": "^2.3.1",
-    "@bookshop/jekyll-engine": "^2.3.1",
-    "@bookshop/live": "^2.3.1",
+    "@bookshop/browser": "3.2.1",
+    "@bookshop/jekyll-engine": "3.2.1",
+    "@bookshop/generate": "3.2.1",
     "npm-run-all": "^4.1.5",
     "postcss": "^8.4.5",
     "postcss-cli": "^9.1.0",

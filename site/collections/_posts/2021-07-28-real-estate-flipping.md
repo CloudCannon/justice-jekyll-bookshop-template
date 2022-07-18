@@ -10,6 +10,7 @@ SEO_options:
   description:
   image: 'https://unsplash.it/600/450?image=737&a=.png'
   prevent_indexing: false
+blurb: Flipping is a term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.
 ---
 
 Flipping is a term used primarily in the US to describe purchasing a revenue-generating asset and quickly reselling it for profit.

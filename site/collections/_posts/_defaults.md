@@ -10,4 +10,5 @@ SEO_options:
   description:
   image:
   prevent_indexing: false
+blurb:
 ---

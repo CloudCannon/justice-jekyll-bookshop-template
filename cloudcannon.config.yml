@@ -4,6 +4,8 @@ collections_config:
     _enabled_editors:
       - data
 
+data_config: true
+
 # The rest of this array structure will be
 # populated by the bookshop-array-structures plugin.
 _structures:
@@ -73,6 +75,8 @@ _inputs:
     options:
       values: collections.staff_members
       value_key: _id
+  blurb:
+    type: textarea
   content_html:
     type: html
     options: *toolbar

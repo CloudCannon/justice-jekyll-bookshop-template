@@ -10,6 +10,7 @@ SEO_options:
   description:
   image: https://unsplash.it/960/350?image=617
   prevent_indexing: false
+blurb: Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
 ---
 Mergers and acquisitions are transactions in which the ownership of companies, other business organizations or their operating units are transferred or combined.
 
