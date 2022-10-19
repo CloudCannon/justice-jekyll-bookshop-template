@@ -1,8 +1,19 @@
 collections_config:
+  pages:
+    schemas:
+      default:
+        path: schemas/page.md
+  posts:
+    schemas:
+      default:
+        path: schemas/post.md
   staff_members:
     icon: supervisor_account
     _enabled_editors:
       - data
+    schemas:
+      default:
+        path: schemas/staff-member.md
 
 data_config: true
 
