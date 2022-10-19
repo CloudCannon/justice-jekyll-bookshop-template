@@ -2,7 +2,7 @@ collections_config:
   pages:
     schemas:
       default:
-        path: site/schemas/page.md
+        path: site/schemas/page.html
   posts:
     schemas:
       default:
