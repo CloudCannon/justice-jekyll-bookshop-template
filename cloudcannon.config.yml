@@ -1,5 +1,6 @@
 collections_config:
   pages:
+    icon: web
     schemas:
       default:
         path: site/schemas/page.html
@@ -14,6 +15,19 @@ collections_config:
     schemas:
       default:
         path: site/schemas/staff-member.md
+        
+collection_groups:
+  - heading: Pages
+    collections:
+      - pages
+  - heading: Blog
+    collections:
+      - posts
+      - drafts
+      - staff_members
+  - heading: Settings
+    collections:
+      - data
 
 data_config: true
 
