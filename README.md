@@ -1,7 +1,7 @@
 # Justice
 
 > [!IMPORTANT]
-> This template is no longer actively maintained but remains available for reference and learning. For production sites, we recommend our [modern templates]([/templates/](https://cloudcannon.com/templates/)).
+> This template is no longer actively maintained but remains available for reference and learning. For production sites, we recommend our [modern templates](https://cloudcannon.com/templates/).
 
 Law firm themed business template for Jekyll. Browse through a [live demo](https://simple-water.cloudvent.net/).
 Increase the web presence of a business or law firm with this configurable theme.
